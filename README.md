@@ -4,3 +4,6 @@ idea
 code
 
 rebased
+
+--amend
+
