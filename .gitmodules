@@ -1,0 +1,4 @@
+[submodule "module"]
+	path = module
+	url = https://github.com/TranscodeGroup/git-submodule-learn.git
+	branch = main
